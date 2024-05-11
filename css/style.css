@@ -242,7 +242,8 @@ main {
     justify-self: center;
     width: 100%;
     font-family: 'Roboto', sans-serif;
-    font-size: 0.85rem;
+    font-size: 1rem;
+    display: absolute;
 }
 
 .card-button:hover {
